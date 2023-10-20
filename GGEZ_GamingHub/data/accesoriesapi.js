@@ -1,11 +1,10 @@
 [
     {   "id" : "1" ,
-        "product" : "Hard Disk Drive",
-        "price" : "1999",
-        "category" : "Playstation5",
-        "img" : "hdd.jpg",
-        "previous" : "2449",  
-        "save" : "450"   },
+        "product" : "Sony SRS-XE200 Wireless Speaker",
+        "price" : "6095",
+        "category" : "Accessories",
+        "img" : "https://ecommerce.datablitz.com.ph/cdn/shop/files/Sony-SRS-XE200-trio_400x.jpg?v=1697336485" 
+    },
     
     {   "id" : "2" ,
         "product" : "Hard Disk Drive",
