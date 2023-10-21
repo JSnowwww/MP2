@@ -102,11 +102,9 @@
         "img" : "https://digital.datablitz.com.ph/cdn/shop/products/1month_740x.jpg?v=1658538996"},
     
     {   "id" : "18" ,
-        "product" : "Hard Disk Drive",
-        "price" : "1999",
+        "product" : "XBOX GAME PASS FOR PC MEMBERSHIP CODE - 3 MONTHS (HK)",
+        "price" : "1195",
         "category" : "Digital Store",
-        "img" : "hdd.jpg", 
-        "previous" : "2449", 
-        "save" : "450"   }
+        "img" : "https://digital.datablitz.com.ph/cdn/shop/products/xbox-passcode_740x.jpg?v=1614140270"}
     
     ]
