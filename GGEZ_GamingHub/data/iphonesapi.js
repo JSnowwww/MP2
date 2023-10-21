@@ -1,9 +1,9 @@
 [
     {   "id" : "1" ,
-        "product" : "Hard Disk Drive",
-        "price" : "1999",
+        "product" : "USB-C to Lightning Cable (2m)",
+        "price" : "2090",
         "category" : "Playstation5",
-        "img" : "hdd.jpg",
+        "img" : "https://powermaccenter.com/cdn/shop/files/A012000x2000_3f72653c-3b27-403c-b836-65b6df4a54ea_1680x.jpg?v=1691109858",
         "previous" : "2449",  
         "save" : "450"   },
     
